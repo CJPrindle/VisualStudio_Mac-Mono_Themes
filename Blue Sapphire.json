@@ -135,7 +135,7 @@
         {"name": "String", "fore":"#DDA768" },
         {"name": "String(C# @ Verbatim)", "fore":"#FFF099" },
         {"name": "String(Escape)", "fore":"#DDA768" },
-        {"name": "String(Regex Alt Escape Character)", "fore":"#FCAF3E" }
+        {"name": "String(Regex Alt Escape Character)", "fore":"#FCAF3E" },
         {"name": "String(Regex Character Class)", "fore":"#719DCF" },
         {"name": "String(Regex Escape Character)", "fore":"#F57800" },
         {"name": "String(Regex Grouping Constructs)", "fore":"#AD7FA7" },
@@ -168,6 +168,6 @@
         {"name": "Xml Comment", "fore":"#6D778E" },
         {"name": "Xml Delimiter", "fore":"#F4B68E" },
         {"name": "Xml Name", "fore":"#379CF4" },
-        {"name": "Xml Text", "fore":"#EFEFEF" },	
+        {"name": "Xml Text", "fore":"#EFEFEF" }	
     ]
 }

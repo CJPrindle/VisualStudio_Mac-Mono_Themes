@@ -56,7 +56,7 @@
 		{"name": "Underline(Hint)", "color":"#8AE233" },
 		{"name": "Underline(Suggestion)", "color":"#4D9A06" },
 		{"name": "Underline(Warning)", "color":"#008000" },
-		{"name": "Usages(Rectangle)", "color":"#527F99", "secondcolor":"#527F99", "bordercolor":"#527F99" },
+		{"name": "Usages(Rectangle)", "color":"#527F99", "secondcolor":"#527F99", "bordercolor":"#527F99" }
 	],
 	"text":[
 		{"name": "Breakpoint Text", "fore":"#FFFFFF", "back":"#963945" },
@@ -168,6 +168,6 @@
 		{"name": "Xml Comment", "fore":"#006400" },
 		{"name": "Xml Delimiter", "fore":"#0000FF" },
 		{"name": "Xml Name", "fore":"#A31515" },
-		{"name": "Xml Text" },
+		{"name": "Xml Text" }
 	]
 }

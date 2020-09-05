@@ -56,7 +56,7 @@
 		{"name": "Underline(Hint)", "color":"#8AE233" },
 		{"name": "Underline(Suggestion)", "color":"#4D9A06" },
 		{"name": "Underline(Warning)", "color":"#008000" },
-		{"name": "Usages(Rectangle)", "color":"#527F99", "secondcolor":"#527F99", "bordercolor":"#527F99" },
+		{"name": "Usages(Rectangle)", "color":"#527F99", "secondcolor":"#527F99", "bordercolor":"#527F99" }
   ],
 	"text":[
 		{"name": "Breakpoint Text", "fore":"#FFFFFF", "back":"#800000" },
@@ -136,7 +136,7 @@
 		{"name": "String", "fore":"#A31515" },
 		{"name": "String(C# @ Verbatim)", "fore":"#E6DB73" },
 		{"name": "String(Escape)", "fore":"#A31515" },
-		{"name": "String(Regex Alt Escape Character)", "fore":"#FCAF3E" }
+		{"name": "String(Regex Alt Escape Character)", "fore":"#FCAF3E" },
 		{"name": "String(Regex Character Class)", "fore":"#719ECF" },
 		{"name": "String(Regex Escape Character)", "fore":"#F57800" },
 		{"name": "String(Regex Grouping Constructs)", "fore":"#AD7FA7" },
@@ -169,6 +169,6 @@
 		{"name": "Xml Comment", "fore":"#008000" },
 		{"name": "Xml Delimiter", "fore":"#A31515" },
 		{"name": "Xml Name", "fore":"#005174" },
-		{"name": "Xml Text", "fore":"#A0A0A0" },
+		{"name": "Xml Text", "fore":"#A0A0A0" }
 	]
 }
